@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+<div class="bg-wrap">
+  <div class="blob b1"></div>
+  <div class="blob b2"></div>
+  <div class="blob b3"></div>
+
+  <div class="panel glass">
+
+    <!-- Header -->
+    <div class="ph">
+      <span class="ph-logo">moodmap</span>
+      <div class="ph-right">
+        <div class="date-wrap">
+          <button class="date-chip" id="date-chip"></button>
+          <span class="today-marker" id="today-marker">today</span>
+          <button class="btn-reset-date" id="btn-reset-date" title="Back to today" style="display:none">↺</button>
+          <input type="date" id="date-input" />
+        </div>
+        <span class="streak-badge" id="streak-badge"></span>
+      </div>
+    </div>
+
+    <!-- Form view (log / edit) -->
+    <div class="pb" id="view-form">
+      <p class="section-prompt" id="form-prompt">How are you feeling today?</p>
+
+      <div class="emotion-grid">
+        <div class="ec excited" data-emotion="excited"><span class="ec-emoji">⚡</span><span class="ec-label">excited</span></div>
+        <div class="ec happy"   data-emotion="happy"  ><span class="ec-emoji">😊</span><span class="ec-label">happy</span></div>
+        <div class="ec calm"    data-emotion="calm"   ><span class="ec-emoji">🌊</span><span class="ec-label">calm</span></div>
+        <div class="ec anxious" data-emotion="anxious"><span class="ec-emoji">🌀</span><span class="ec-label">anxious</span></div>
+        <div class="ec sad"     data-emotion="sad"    ><span class="ec-emoji">🌧</span><span class="ec-label">sad</span></div>
+        <div class="ec angry"   data-emotion="angry"  ><span class="ec-emoji">🔥</span><span class="ec-label">angry</span></div>
+      </div>
+
+      <div class="intensity-row">
+        <span class="int-label">Intensity</span>
+        <div class="slider-wrap">
+          <div class="slider-track"></div>
+          <div class="slider-fill" id="sfill"></div>
+          <div class="slider-thumb" id="sthumb"></div>
+          <input type="range" min="1" max="10" value="5" id="intensity-input" />
+        </div>
+        <span class="int-val" id="int-val">5</span>
+      </div>
+
+      <textarea id="note-input" placeholder="One sentence — optional" maxlength="200"></textarea>
+
+      <button class="btn-primary" id="btn-save" disabled>Log today</button>
+      <span class="view-link" id="btn-to-year">View my year →</span>
+    </div>
+
+    <!-- Already-logged view -->
+    <div class="pb" id="view-done" style="display:none">
+      <div class="done-summary">
+        <span class="done-emoji" id="done-emoji"></span>
+        <div class="done-info">
+          <div class="done-emotion" id="done-emotion"></div>
+          <div class="done-int"     id="done-int"></div>
+        </div>
+      </div>
+      <div class="done-note" id="done-note"></div>
+      <button class="btn-ghost" id="btn-edit">Edit this entry</button>
+      <span class="view-link" id="btn-to-year-2">View my year →</span>
+    </div>
+
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="storage.js"></script>
+<script src="popup.js"></script>
+</body>
+</html>

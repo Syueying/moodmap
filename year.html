@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>moodmap</title>
+  <link rel="stylesheet" href="year.css" />
+</head>
+<body>
+
+  <!-- Background blobs -->
+  <div class="blob b1"></div>
+  <div class="blob b2"></div>
+  <div class="blob b3"></div>
+  <div class="blob b4"></div>
+  <div class="blob b5"></div>
+
+  <!-- Hover tooltip -->
+  <div id="tooltip">
+    <div class="tt-inner">
+      <div class="tt-date"      id="tt-date"></div>
+      <div class="tt-meta">
+        <div class="tt-dot"        id="tt-dot"></div>
+        <span class="tt-emotion"   id="tt-emotion"></span>
+        <span class="tt-intensity" id="tt-intensity"></span>
+      </div>
+      <div class="tt-note" id="tt-note"></div>
+    </div>
+  </div>
+
+  <div class="page">
+
+    <!-- ══════════════════════════════════
+         LOG PANEL
+    ══════════════════════════════════ -->
+    <div class="log-card glass">
+
+      <div class="log-header">
+        <span class="app-logo">moodmap</span>
+
+        <div class="date-info">
+          <button class="date-text-btn" id="date-text" title="Pick a date"><!-- filled by JS --></button>
+          <span class="today-tag" id="today-tag">today</span>
+          <button class="btn-back-today" id="btn-back-today" style="display:none">↺ today</button>
+        </div>
+
+        <div class="log-header-right">
+          <span class="streak-badge" id="streak-badge"></span>
+          <button class="btn-icon" id="btn-export">↓ Export</button>
+          <button class="btn-icon" id="btn-import">↑ Import</button>
+          <input type="file" id="import-file" accept=".json" />
+        </div>
+      </div>
+
+      <div class="log-body">
+
+        <!-- Emotion grid -->
+        <div class="emotion-grid">
+          <div class="ec excited" data-emotion="excited"><span class="ec-emoji">⚡</span><span class="ec-label">excited</span></div>
+          <div class="ec happy"   data-emotion="happy"  ><span class="ec-emoji">😊</span><span class="ec-label">happy</span></div>
+          <div class="ec calm"    data-emotion="calm"   ><span class="ec-emoji">🌊</span><span class="ec-label">calm</span></div>
+          <div class="ec anxious" data-emotion="anxious"><span class="ec-emoji">🌀</span><span class="ec-label">anxious</span></div>
+          <div class="ec sad"     data-emotion="sad"    ><span class="ec-emoji">🌧</span><span class="ec-label">sad</span></div>
+          <div class="ec angry"   data-emotion="angry"  ><span class="ec-emoji">🔥</span><span class="ec-label">angry</span></div>
+        </div>
+
+        <!-- Intensity + note + save -->
+        <div class="log-right">
+          <div class="intensity-row">
+            <span class="int-label">Intensity</span>
+            <div class="slider-wrap">
+              <div class="slider-track"></div>
+              <div class="slider-fill" id="sfill"></div>
+              <div class="slider-thumb" id="sthumb"></div>
+              <input type="range" min="1" max="10" value="5" id="intensity-input" />
+            </div>
+            <span class="int-val" id="int-val">5</span>
+          </div>
+
+          <div class="note-save-row">
+            <textarea id="note-input" placeholder="One sentence — optional" maxlength="200"></textarea>
+            <button class="btn-save" id="btn-save" disabled>Log today</button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ══════════════════════════════════
+         YEAR CARD
+    ══════════════════════════════════ -->
+    <div class="year-card glass">
+
+      <div class="year-top">
+        <div class="year-nav-row">
+          <button class="btn-year-nav" id="btn-prev-year">←</button>
+          <span class="year-num" id="year-num">2026</span>
+          <button class="btn-year-nav" id="btn-next-year">→</button>
+          <span class="year-sub" id="year-sub"></span>
+        </div>
+        <div class="year-stats" id="year-stats">
+          <div class="stat"><div class="stat-val" id="stat-1-val">—</div><div class="stat-label" id="stat-1-lbl">—</div></div>
+          <div class="stat"><div class="stat-val" id="stat-2-val">—</div><div class="stat-label" id="stat-2-lbl">—</div></div>
+          <div class="stat"><div class="stat-val" id="stat-3-val">—</div><div class="stat-label" id="stat-3-lbl">—</div></div>
+        </div>
+      </div>
+
+      <!-- Heatmap -->
+      <div class="heatmap-wrap">
+        <div class="heatmap-inner">
+          <div class="month-row" id="month-row"></div>
+          <div class="weeks-row">
+            <div class="dl-col">
+              <div class="dl"></div>
+              <div class="dl">M</div>
+              <div class="dl"></div>
+              <div class="dl">W</div>
+              <div class="dl"></div>
+              <div class="dl">F</div>
+              <div class="dl"></div>
+            </div>
+            <div class="weeks" id="weeks"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Intensity strip -->
+      <div class="int-strip">
+        <span class="int-strip-label">intensity →</span>
+        <div class="swatch" id="sw1"></div>
+        <div class="swatch" id="sw2"></div>
+        <div class="swatch" id="sw3"></div>
+        <div class="swatch" id="sw4"></div>
+        <div class="swatch" id="sw5"></div>
+        <span class="int-strip-hint">color = emotion &nbsp;·&nbsp; shade = how strong</span>
+      </div>
+
+      <!-- Legend -->
+      <div class="legend">
+        <div class="li"><div class="ldot" style="background:var(--excited)"></div>excited</div>
+        <div class="li"><div class="ldot" style="background:var(--happy)"  ></div>happy</div>
+        <div class="li"><div class="ldot" style="background:var(--calm)"   ></div>calm</div>
+        <div class="li"><div class="ldot" style="background:var(--anxious)"></div>anxious</div>
+        <div class="li"><div class="ldot" style="background:var(--sad)"    ></div>sad</div>
+        <div class="li"><div class="ldot" style="background:var(--angry)"  ></div>angry</div>
+      </div>
+
+      <!-- Sparkline -->
+      <div class="sparkline-section">
+        <div class="spark-label-col">last 7 days</div>
+        <div id="sparkline" style="display:flex;gap:6px;align-items:flex-end;flex:1;"></div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Custom date picker panel -->
+  <div id="datepicker" style="display:none">
+    <div class="dp-header">
+      <button class="dp-nav" id="dp-prev">←</button>
+      <span class="dp-month-label" id="dp-month-label"></span>
+      <button class="dp-nav" id="dp-next">→</button>
+    </div>
+    <div class="dp-weekdays">
+      <span>S</span><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span>
+    </div>
+    <div class="dp-days" id="dp-days"></div>
+    <div class="dp-footer">
+      <button class="dp-today-btn" id="dp-today-btn">Today</button>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="storage.js"></script>
+  <script src="year.js"></script>
+</body>
+</html>
