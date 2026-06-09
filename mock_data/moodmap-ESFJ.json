@@ -1,0 +1,4228 @@
+{
+  "version": 1,
+  "profile": "ESFJ \u2014 The Consul \u2014 powered by connection, notices when you haven't eaten",
+  "generated": "2026-06-09",
+  "entries": {
+    "2024-01-01": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1704081600000,
+      "updatedAt": 1704081600000
+    },
+    "2024-01-02": {
+      "emotion": "sad",
+      "intensity": 3,
+      "note": "",
+      "createdAt": 1704168000000,
+      "updatedAt": 1704168000000
+    },
+    "2024-01-03": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1704254400000,
+      "updatedAt": 1704254400000
+    },
+    "2024-01-07": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1704600000000,
+      "updatedAt": 1704600000000
+    },
+    "2024-01-08": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1704686400000,
+      "updatedAt": 1704686400000
+    },
+    "2024-01-09": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1704772800000,
+      "updatedAt": 1704772800000
+    },
+    "2024-01-10": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1704859200000,
+      "updatedAt": 1704859200000
+    },
+    "2024-01-11": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1704945600000,
+      "updatedAt": 1704945600000
+    },
+    "2024-01-12": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1705032000000,
+      "updatedAt": 1705032000000
+    },
+    "2024-01-13": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1705118400000,
+      "updatedAt": 1705118400000
+    },
+    "2024-01-14": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1705204800000,
+      "updatedAt": 1705204800000
+    },
+    "2024-01-17": {
+      "emotion": "calm",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1705464000000,
+      "updatedAt": 1705464000000
+    },
+    "2024-01-18": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Made sure everyone felt included today",
+      "createdAt": 1705550400000,
+      "updatedAt": 1705550400000
+    },
+    "2024-01-19": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1705636800000,
+      "updatedAt": 1705636800000
+    },
+    "2024-01-20": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Family dinner was everything",
+      "createdAt": 1705723200000,
+      "updatedAt": 1705723200000
+    },
+    "2024-01-21": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1705809600000,
+      "updatedAt": 1705809600000
+    },
+    "2024-01-22": {
+      "emotion": "anxious",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1705896000000,
+      "updatedAt": 1705896000000
+    },
+    "2024-01-24": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1706068800000,
+      "updatedAt": 1706068800000
+    },
+    "2024-01-25": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1706155200000,
+      "updatedAt": 1706155200000
+    },
+    "2024-01-26": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1706241600000,
+      "updatedAt": 1706241600000
+    },
+    "2024-01-27": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1706328000000,
+      "updatedAt": 1706328000000
+    },
+    "2024-01-28": {
+      "emotion": "happy",
+      "intensity": 10,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1706414400000,
+      "updatedAt": 1706414400000
+    },
+    "2024-01-29": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1706500800000,
+      "updatedAt": 1706500800000
+    },
+    "2024-01-30": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1706587200000,
+      "updatedAt": 1706587200000
+    },
+    "2024-01-31": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1706673600000,
+      "updatedAt": 1706673600000
+    },
+    "2024-02-01": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1706760000000,
+      "updatedAt": 1706760000000
+    },
+    "2024-02-02": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1706846400000,
+      "updatedAt": 1706846400000
+    },
+    "2024-02-03": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1706932800000,
+      "updatedAt": 1706932800000
+    },
+    "2024-02-04": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1707019200000,
+      "updatedAt": 1707019200000
+    },
+    "2024-02-05": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1707105600000,
+      "updatedAt": 1707105600000
+    },
+    "2024-02-07": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1707278400000,
+      "updatedAt": 1707278400000
+    },
+    "2024-02-09": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1707451200000,
+      "updatedAt": 1707451200000
+    },
+    "2024-02-10": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "Someone said thank you and I had to pretend that's not all I needed",
+      "createdAt": 1707537600000,
+      "updatedAt": 1707537600000
+    },
+    "2024-02-12": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1707710400000,
+      "updatedAt": 1707710400000
+    },
+    "2024-02-13": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1707796800000,
+      "updatedAt": 1707796800000
+    },
+    "2024-02-16": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1708056000000,
+      "updatedAt": 1708056000000
+    },
+    "2024-02-17": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1708142400000,
+      "updatedAt": 1708142400000
+    },
+    "2024-02-18": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1708228800000,
+      "updatedAt": 1708228800000
+    },
+    "2024-02-20": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1708401600000,
+      "updatedAt": 1708401600000
+    },
+    "2024-02-21": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1708488000000,
+      "updatedAt": 1708488000000
+    },
+    "2024-02-22": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1708574400000,
+      "updatedAt": 1708574400000
+    },
+    "2024-02-23": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1708660800000,
+      "updatedAt": 1708660800000
+    },
+    "2024-02-24": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1708747200000,
+      "updatedAt": 1708747200000
+    },
+    "2024-02-25": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1708833600000,
+      "updatedAt": 1708833600000
+    },
+    "2024-02-26": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1708920000000,
+      "updatedAt": 1708920000000
+    },
+    "2024-02-27": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1709006400000,
+      "updatedAt": 1709006400000
+    },
+    "2024-02-28": {
+      "emotion": "happy",
+      "intensity": 2,
+      "note": "",
+      "createdAt": 1709092800000,
+      "updatedAt": 1709092800000
+    },
+    "2024-02-29": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1709179200000,
+      "updatedAt": 1709179200000
+    },
+    "2024-03-01": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1709265600000,
+      "updatedAt": 1709265600000
+    },
+    "2024-03-02": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1709352000000,
+      "updatedAt": 1709352000000
+    },
+    "2024-03-03": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1709438400000,
+      "updatedAt": 1709438400000
+    },
+    "2024-03-04": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1709524800000,
+      "updatedAt": 1709524800000
+    },
+    "2024-03-06": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1709697600000,
+      "updatedAt": 1709697600000
+    },
+    "2024-03-07": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1709784000000,
+      "updatedAt": 1709784000000
+    },
+    "2024-03-08": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1709870400000,
+      "updatedAt": 1709870400000
+    },
+    "2024-03-09": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1709956800000,
+      "updatedAt": 1709956800000
+    },
+    "2024-03-11": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "Family dinner was everything",
+      "createdAt": 1710129600000,
+      "updatedAt": 1710129600000
+    },
+    "2024-03-13": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1710302400000,
+      "updatedAt": 1710302400000
+    },
+    "2024-03-14": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1710388800000,
+      "updatedAt": 1710388800000
+    },
+    "2024-03-15": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1710475200000,
+      "updatedAt": 1710475200000
+    },
+    "2024-03-17": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Family dinner was everything",
+      "createdAt": 1710648000000,
+      "updatedAt": 1710648000000
+    },
+    "2024-03-18": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1710734400000,
+      "updatedAt": 1710734400000
+    },
+    "2024-03-19": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1710820800000,
+      "updatedAt": 1710820800000
+    },
+    "2024-03-20": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1710907200000,
+      "updatedAt": 1710907200000
+    },
+    "2024-03-21": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1710993600000,
+      "updatedAt": 1710993600000
+    },
+    "2024-03-22": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1711080000000,
+      "updatedAt": 1711080000000
+    },
+    "2024-03-23": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1711166400000,
+      "updatedAt": 1711166400000
+    },
+    "2024-03-24": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1711252800000,
+      "updatedAt": 1711252800000
+    },
+    "2024-03-25": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1711339200000,
+      "updatedAt": 1711339200000
+    },
+    "2024-03-26": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1711425600000,
+      "updatedAt": 1711425600000
+    },
+    "2024-03-27": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1711512000000,
+      "updatedAt": 1711512000000
+    },
+    "2024-03-28": {
+      "emotion": "anxious",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1711598400000,
+      "updatedAt": 1711598400000
+    },
+    "2024-03-31": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "The party came together perfectly",
+      "createdAt": 1711857600000,
+      "updatedAt": 1711857600000
+    },
+    "2024-04-01": {
+      "emotion": "excited",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1711944000000,
+      "updatedAt": 1711944000000
+    },
+    "2024-04-02": {
+      "emotion": "calm",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1712030400000,
+      "updatedAt": 1712030400000
+    },
+    "2024-04-03": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1712116800000,
+      "updatedAt": 1712116800000
+    },
+    "2024-04-04": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1712203200000,
+      "updatedAt": 1712203200000
+    },
+    "2024-04-05": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1712289600000,
+      "updatedAt": 1712289600000
+    },
+    "2024-04-07": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1712462400000,
+      "updatedAt": 1712462400000
+    },
+    "2024-04-08": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1712548800000,
+      "updatedAt": 1712548800000
+    },
+    "2024-04-10": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1712721600000,
+      "updatedAt": 1712721600000
+    },
+    "2024-04-11": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1712808000000,
+      "updatedAt": 1712808000000
+    },
+    "2024-04-12": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1712894400000,
+      "updatedAt": 1712894400000
+    },
+    "2024-04-13": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1712980800000,
+      "updatedAt": 1712980800000
+    },
+    "2024-04-14": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1713067200000,
+      "updatedAt": 1713067200000
+    },
+    "2024-04-15": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Family dinner was everything",
+      "createdAt": 1713153600000,
+      "updatedAt": 1713153600000
+    },
+    "2024-04-16": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1713240000000,
+      "updatedAt": 1713240000000
+    },
+    "2024-04-17": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1713326400000,
+      "updatedAt": 1713326400000
+    },
+    "2024-04-19": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1713499200000,
+      "updatedAt": 1713499200000
+    },
+    "2024-04-20": {
+      "emotion": "excited",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1713585600000,
+      "updatedAt": 1713585600000
+    },
+    "2024-04-21": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1713672000000,
+      "updatedAt": 1713672000000
+    },
+    "2024-04-22": {
+      "emotion": "angry",
+      "intensity": 4,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1713758400000,
+      "updatedAt": 1713758400000
+    },
+    "2024-04-23": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1713844800000,
+      "updatedAt": 1713844800000
+    },
+    "2024-04-24": {
+      "emotion": "calm",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1713931200000,
+      "updatedAt": 1713931200000
+    },
+    "2024-04-25": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1714017600000,
+      "updatedAt": 1714017600000
+    },
+    "2024-04-26": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1714104000000,
+      "updatedAt": 1714104000000
+    },
+    "2024-04-27": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1714190400000,
+      "updatedAt": 1714190400000
+    },
+    "2024-04-28": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "The party came together perfectly",
+      "createdAt": 1714276800000,
+      "updatedAt": 1714276800000
+    },
+    "2024-04-29": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1714363200000,
+      "updatedAt": 1714363200000
+    },
+    "2024-04-30": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1714449600000,
+      "updatedAt": 1714449600000
+    },
+    "2024-05-01": {
+      "emotion": "angry",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1714536000000,
+      "updatedAt": 1714536000000
+    },
+    "2024-05-02": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1714622400000,
+      "updatedAt": 1714622400000
+    },
+    "2024-05-03": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1714708800000,
+      "updatedAt": 1714708800000
+    },
+    "2024-05-04": {
+      "emotion": "calm",
+      "intensity": 10,
+      "note": "",
+      "createdAt": 1714795200000,
+      "updatedAt": 1714795200000
+    },
+    "2024-05-05": {
+      "emotion": "happy",
+      "intensity": 10,
+      "note": "",
+      "createdAt": 1714881600000,
+      "updatedAt": 1714881600000
+    },
+    "2024-05-06": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1714968000000,
+      "updatedAt": 1714968000000
+    },
+    "2024-05-07": {
+      "emotion": "calm",
+      "intensity": 4,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1715054400000,
+      "updatedAt": 1715054400000
+    },
+    "2024-05-08": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1715140800000,
+      "updatedAt": 1715140800000
+    },
+    "2024-05-09": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1715227200000,
+      "updatedAt": 1715227200000
+    },
+    "2024-05-10": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "Someone said thank you and I had to pretend that's not all I needed",
+      "createdAt": 1715313600000,
+      "updatedAt": 1715313600000
+    },
+    "2024-05-11": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1715400000000,
+      "updatedAt": 1715400000000
+    },
+    "2024-05-12": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1715486400000,
+      "updatedAt": 1715486400000
+    },
+    "2024-05-13": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1715572800000,
+      "updatedAt": 1715572800000
+    },
+    "2024-05-14": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1715659200000,
+      "updatedAt": 1715659200000
+    },
+    "2024-05-15": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1715745600000,
+      "updatedAt": 1715745600000
+    },
+    "2024-05-16": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1715832000000,
+      "updatedAt": 1715832000000
+    },
+    "2024-05-17": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "The party came together perfectly",
+      "createdAt": 1715918400000,
+      "updatedAt": 1715918400000
+    },
+    "2024-05-18": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1716004800000,
+      "updatedAt": 1716004800000
+    },
+    "2024-05-19": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1716091200000,
+      "updatedAt": 1716091200000
+    },
+    "2024-05-20": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1716177600000,
+      "updatedAt": 1716177600000
+    },
+    "2024-05-21": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1716264000000,
+      "updatedAt": 1716264000000
+    },
+    "2024-05-22": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1716350400000,
+      "updatedAt": 1716350400000
+    },
+    "2024-05-23": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1716436800000,
+      "updatedAt": 1716436800000
+    },
+    "2024-05-24": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1716523200000,
+      "updatedAt": 1716523200000
+    },
+    "2024-05-25": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1716609600000,
+      "updatedAt": 1716609600000
+    },
+    "2024-05-28": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1716868800000,
+      "updatedAt": 1716868800000
+    },
+    "2024-05-29": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1716955200000,
+      "updatedAt": 1716955200000
+    },
+    "2024-05-30": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1717041600000,
+      "updatedAt": 1717041600000
+    },
+    "2024-05-31": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1717128000000,
+      "updatedAt": 1717128000000
+    },
+    "2024-06-01": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1717214400000,
+      "updatedAt": 1717214400000
+    },
+    "2024-06-02": {
+      "emotion": "calm",
+      "intensity": 10,
+      "note": "",
+      "createdAt": 1717300800000,
+      "updatedAt": 1717300800000
+    },
+    "2024-06-03": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "Made sure everyone felt included today",
+      "createdAt": 1717387200000,
+      "updatedAt": 1717387200000
+    },
+    "2024-06-04": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1717473600000,
+      "updatedAt": 1717473600000
+    },
+    "2024-06-05": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Family dinner was everything",
+      "createdAt": 1717560000000,
+      "updatedAt": 1717560000000
+    },
+    "2024-06-06": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1717646400000,
+      "updatedAt": 1717646400000
+    },
+    "2024-06-08": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1717819200000,
+      "updatedAt": 1717819200000
+    },
+    "2024-06-09": {
+      "emotion": "excited",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1717905600000,
+      "updatedAt": 1717905600000
+    },
+    "2024-06-10": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1717992000000,
+      "updatedAt": 1717992000000
+    },
+    "2024-06-11": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1718078400000,
+      "updatedAt": 1718078400000
+    },
+    "2024-06-13": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1718251200000,
+      "updatedAt": 1718251200000
+    },
+    "2024-06-14": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "Made sure everyone felt included today",
+      "createdAt": 1718337600000,
+      "updatedAt": 1718337600000
+    },
+    "2024-06-15": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1718424000000,
+      "updatedAt": 1718424000000
+    },
+    "2024-06-17": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1718596800000,
+      "updatedAt": 1718596800000
+    },
+    "2024-06-18": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1718683200000,
+      "updatedAt": 1718683200000
+    },
+    "2024-06-20": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Family dinner was everything",
+      "createdAt": 1718856000000,
+      "updatedAt": 1718856000000
+    },
+    "2024-06-22": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1719028800000,
+      "updatedAt": 1719028800000
+    },
+    "2024-06-23": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1719115200000,
+      "updatedAt": 1719115200000
+    },
+    "2024-06-25": {
+      "emotion": "calm",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1719288000000,
+      "updatedAt": 1719288000000
+    },
+    "2024-06-26": {
+      "emotion": "sad",
+      "intensity": 5,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1719374400000,
+      "updatedAt": 1719374400000
+    },
+    "2024-06-27": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1719460800000,
+      "updatedAt": 1719460800000
+    },
+    "2024-06-28": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1719547200000,
+      "updatedAt": 1719547200000
+    },
+    "2024-06-29": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1719633600000,
+      "updatedAt": 1719633600000
+    },
+    "2024-06-30": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1719720000000,
+      "updatedAt": 1719720000000
+    },
+    "2024-07-01": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1719806400000,
+      "updatedAt": 1719806400000
+    },
+    "2024-07-02": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1719892800000,
+      "updatedAt": 1719892800000
+    },
+    "2024-07-03": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1719979200000,
+      "updatedAt": 1719979200000
+    },
+    "2024-07-04": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1720065600000,
+      "updatedAt": 1720065600000
+    },
+    "2024-07-05": {
+      "emotion": "excited",
+      "intensity": 5,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1720152000000,
+      "updatedAt": 1720152000000
+    },
+    "2024-07-07": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1720324800000,
+      "updatedAt": 1720324800000
+    },
+    "2024-07-08": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1720411200000,
+      "updatedAt": 1720411200000
+    },
+    "2024-07-09": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1720497600000,
+      "updatedAt": 1720497600000
+    },
+    "2024-07-11": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1720670400000,
+      "updatedAt": 1720670400000
+    },
+    "2024-07-12": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1720756800000,
+      "updatedAt": 1720756800000
+    },
+    "2024-07-13": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1720843200000,
+      "updatedAt": 1720843200000
+    },
+    "2024-07-14": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1720929600000,
+      "updatedAt": 1720929600000
+    },
+    "2024-07-15": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1721016000000,
+      "updatedAt": 1721016000000
+    },
+    "2024-07-16": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1721102400000,
+      "updatedAt": 1721102400000
+    },
+    "2024-07-17": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1721188800000,
+      "updatedAt": 1721188800000
+    },
+    "2024-07-18": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1721275200000,
+      "updatedAt": 1721275200000
+    },
+    "2024-07-19": {
+      "emotion": "anxious",
+      "intensity": 3,
+      "note": "",
+      "createdAt": 1721361600000,
+      "updatedAt": 1721361600000
+    },
+    "2024-07-20": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1721448000000,
+      "updatedAt": 1721448000000
+    },
+    "2024-07-22": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1721620800000,
+      "updatedAt": 1721620800000
+    },
+    "2024-07-23": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "Made sure everyone felt included today",
+      "createdAt": 1721707200000,
+      "updatedAt": 1721707200000
+    },
+    "2024-07-25": {
+      "emotion": "sad",
+      "intensity": 2,
+      "note": "",
+      "createdAt": 1721880000000,
+      "updatedAt": 1721880000000
+    },
+    "2024-07-28": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1722139200000,
+      "updatedAt": 1722139200000
+    },
+    "2024-07-30": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "The party came together perfectly",
+      "createdAt": 1722312000000,
+      "updatedAt": 1722312000000
+    },
+    "2024-07-31": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1722398400000,
+      "updatedAt": 1722398400000
+    },
+    "2024-08-01": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Made sure everyone felt included today",
+      "createdAt": 1722484800000,
+      "updatedAt": 1722484800000
+    },
+    "2024-08-03": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1722657600000,
+      "updatedAt": 1722657600000
+    },
+    "2024-08-04": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1722744000000,
+      "updatedAt": 1722744000000
+    },
+    "2024-08-05": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1722830400000,
+      "updatedAt": 1722830400000
+    },
+    "2024-08-07": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1723003200000,
+      "updatedAt": 1723003200000
+    },
+    "2024-08-08": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1723089600000,
+      "updatedAt": 1723089600000
+    },
+    "2024-08-09": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1723176000000,
+      "updatedAt": 1723176000000
+    },
+    "2024-08-12": {
+      "emotion": "sad",
+      "intensity": 9,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1723435200000,
+      "updatedAt": 1723435200000
+    },
+    "2024-08-14": {
+      "emotion": "calm",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1723608000000,
+      "updatedAt": 1723608000000
+    },
+    "2024-08-15": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1723694400000,
+      "updatedAt": 1723694400000
+    },
+    "2024-08-16": {
+      "emotion": "sad",
+      "intensity": 8,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1723780800000,
+      "updatedAt": 1723780800000
+    },
+    "2024-08-17": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1723867200000,
+      "updatedAt": 1723867200000
+    },
+    "2024-08-20": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "Family dinner was everything",
+      "createdAt": 1724126400000,
+      "updatedAt": 1724126400000
+    },
+    "2024-08-21": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1724212800000,
+      "updatedAt": 1724212800000
+    },
+    "2024-08-22": {
+      "emotion": "anxious",
+      "intensity": 4,
+      "note": "Family dinner was everything",
+      "createdAt": 1724299200000,
+      "updatedAt": 1724299200000
+    },
+    "2024-08-23": {
+      "emotion": "calm",
+      "intensity": 3,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1724385600000,
+      "updatedAt": 1724385600000
+    },
+    "2024-08-24": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "The party came together perfectly",
+      "createdAt": 1724472000000,
+      "updatedAt": 1724472000000
+    },
+    "2024-08-25": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1724558400000,
+      "updatedAt": 1724558400000
+    },
+    "2024-08-27": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1724731200000,
+      "updatedAt": 1724731200000
+    },
+    "2024-08-28": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1724817600000,
+      "updatedAt": 1724817600000
+    },
+    "2024-08-30": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1724990400000,
+      "updatedAt": 1724990400000
+    },
+    "2024-08-31": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Made sure everyone felt included today",
+      "createdAt": 1725076800000,
+      "updatedAt": 1725076800000
+    },
+    "2024-09-01": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1725163200000,
+      "updatedAt": 1725163200000
+    },
+    "2024-09-02": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1725249600000,
+      "updatedAt": 1725249600000
+    },
+    "2024-09-03": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1725336000000,
+      "updatedAt": 1725336000000
+    },
+    "2024-09-04": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1725422400000,
+      "updatedAt": 1725422400000
+    },
+    "2024-09-05": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "Made sure everyone felt included today",
+      "createdAt": 1725508800000,
+      "updatedAt": 1725508800000
+    },
+    "2024-09-06": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1725595200000,
+      "updatedAt": 1725595200000
+    },
+    "2024-09-07": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1725681600000,
+      "updatedAt": 1725681600000
+    },
+    "2024-09-08": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1725768000000,
+      "updatedAt": 1725768000000
+    },
+    "2024-09-09": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1725854400000,
+      "updatedAt": 1725854400000
+    },
+    "2024-09-12": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1726113600000,
+      "updatedAt": 1726113600000
+    },
+    "2024-09-13": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1726200000000,
+      "updatedAt": 1726200000000
+    },
+    "2024-09-15": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1726372800000,
+      "updatedAt": 1726372800000
+    },
+    "2024-09-16": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1726459200000,
+      "updatedAt": 1726459200000
+    },
+    "2024-09-17": {
+      "emotion": "angry",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1726545600000,
+      "updatedAt": 1726545600000
+    },
+    "2024-09-20": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1726804800000,
+      "updatedAt": 1726804800000
+    },
+    "2024-09-22": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "The party came together perfectly",
+      "createdAt": 1726977600000,
+      "updatedAt": 1726977600000
+    },
+    "2024-09-23": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1727064000000,
+      "updatedAt": 1727064000000
+    },
+    "2024-09-24": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1727150400000,
+      "updatedAt": 1727150400000
+    },
+    "2024-09-25": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1727236800000,
+      "updatedAt": 1727236800000
+    },
+    "2024-09-26": {
+      "emotion": "excited",
+      "intensity": 10,
+      "note": "The party came together perfectly",
+      "createdAt": 1727323200000,
+      "updatedAt": 1727323200000
+    },
+    "2024-09-27": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1727409600000,
+      "updatedAt": 1727409600000
+    },
+    "2024-09-29": {
+      "emotion": "excited",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1727582400000,
+      "updatedAt": 1727582400000
+    },
+    "2024-09-30": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1727668800000,
+      "updatedAt": 1727668800000
+    },
+    "2024-10-03": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Family dinner was everything",
+      "createdAt": 1727928000000,
+      "updatedAt": 1727928000000
+    },
+    "2024-10-04": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1728014400000,
+      "updatedAt": 1728014400000
+    },
+    "2024-10-05": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1728100800000,
+      "updatedAt": 1728100800000
+    },
+    "2024-10-07": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1728273600000,
+      "updatedAt": 1728273600000
+    },
+    "2024-10-09": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1728446400000,
+      "updatedAt": 1728446400000
+    },
+    "2024-10-10": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1728532800000,
+      "updatedAt": 1728532800000
+    },
+    "2024-10-11": {
+      "emotion": "calm",
+      "intensity": 4,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1728619200000,
+      "updatedAt": 1728619200000
+    },
+    "2024-10-13": {
+      "emotion": "excited",
+      "intensity": 3,
+      "note": "",
+      "createdAt": 1728792000000,
+      "updatedAt": 1728792000000
+    },
+    "2024-10-15": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1728964800000,
+      "updatedAt": 1728964800000
+    },
+    "2024-10-16": {
+      "emotion": "excited",
+      "intensity": 5,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1729051200000,
+      "updatedAt": 1729051200000
+    },
+    "2024-10-17": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1729137600000,
+      "updatedAt": 1729137600000
+    },
+    "2024-10-18": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1729224000000,
+      "updatedAt": 1729224000000
+    },
+    "2024-10-19": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1729310400000,
+      "updatedAt": 1729310400000
+    },
+    "2024-10-20": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1729396800000,
+      "updatedAt": 1729396800000
+    },
+    "2024-10-22": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1729569600000,
+      "updatedAt": 1729569600000
+    },
+    "2024-10-23": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1729656000000,
+      "updatedAt": 1729656000000
+    },
+    "2024-10-24": {
+      "emotion": "sad",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1729742400000,
+      "updatedAt": 1729742400000
+    },
+    "2024-10-25": {
+      "emotion": "sad",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1729828800000,
+      "updatedAt": 1729828800000
+    },
+    "2024-10-26": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1729915200000,
+      "updatedAt": 1729915200000
+    },
+    "2024-10-27": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1730001600000,
+      "updatedAt": 1730001600000
+    },
+    "2024-10-28": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1730088000000,
+      "updatedAt": 1730088000000
+    },
+    "2024-10-29": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1730174400000,
+      "updatedAt": 1730174400000
+    },
+    "2024-10-31": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1730347200000,
+      "updatedAt": 1730347200000
+    },
+    "2024-11-01": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1730433600000,
+      "updatedAt": 1730433600000
+    },
+    "2024-11-02": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1730520000000,
+      "updatedAt": 1730520000000
+    },
+    "2024-11-03": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1730606400000,
+      "updatedAt": 1730606400000
+    },
+    "2024-11-04": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1730692800000,
+      "updatedAt": 1730692800000
+    },
+    "2024-11-05": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1730779200000,
+      "updatedAt": 1730779200000
+    },
+    "2024-11-06": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1730865600000,
+      "updatedAt": 1730865600000
+    },
+    "2024-11-07": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1730952000000,
+      "updatedAt": 1730952000000
+    },
+    "2024-11-08": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1731038400000,
+      "updatedAt": 1731038400000
+    },
+    "2024-11-09": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1731124800000,
+      "updatedAt": 1731124800000
+    },
+    "2024-11-10": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1731211200000,
+      "updatedAt": 1731211200000
+    },
+    "2024-11-11": {
+      "emotion": "angry",
+      "intensity": 3,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1731297600000,
+      "updatedAt": 1731297600000
+    },
+    "2024-11-12": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1731384000000,
+      "updatedAt": 1731384000000
+    },
+    "2024-11-13": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1731470400000,
+      "updatedAt": 1731470400000
+    },
+    "2024-11-14": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1731556800000,
+      "updatedAt": 1731556800000
+    },
+    "2024-11-15": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1731643200000,
+      "updatedAt": 1731643200000
+    },
+    "2024-11-16": {
+      "emotion": "happy",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1731729600000,
+      "updatedAt": 1731729600000
+    },
+    "2024-11-17": {
+      "emotion": "sad",
+      "intensity": 5,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1731816000000,
+      "updatedAt": 1731816000000
+    },
+    "2024-11-18": {
+      "emotion": "excited",
+      "intensity": 9,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1731902400000,
+      "updatedAt": 1731902400000
+    },
+    "2024-11-19": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1731988800000,
+      "updatedAt": 1731988800000
+    },
+    "2024-11-20": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1732075200000,
+      "updatedAt": 1732075200000
+    },
+    "2024-11-21": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1732161600000,
+      "updatedAt": 1732161600000
+    },
+    "2024-11-23": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Someone said thank you and I had to pretend that's not all I needed",
+      "createdAt": 1732334400000,
+      "updatedAt": 1732334400000
+    },
+    "2024-11-24": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1732420800000,
+      "updatedAt": 1732420800000
+    },
+    "2024-11-25": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1732507200000,
+      "updatedAt": 1732507200000
+    },
+    "2024-11-26": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1732593600000,
+      "updatedAt": 1732593600000
+    },
+    "2024-11-27": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1732680000000,
+      "updatedAt": 1732680000000
+    },
+    "2024-11-28": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1732766400000,
+      "updatedAt": 1732766400000
+    },
+    "2024-11-29": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1732852800000,
+      "updatedAt": 1732852800000
+    },
+    "2024-11-30": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "The party came together perfectly",
+      "createdAt": 1732939200000,
+      "updatedAt": 1732939200000
+    },
+    "2024-12-01": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1733025600000,
+      "updatedAt": 1733025600000
+    },
+    "2024-12-02": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1733112000000,
+      "updatedAt": 1733112000000
+    },
+    "2024-12-03": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1733198400000,
+      "updatedAt": 1733198400000
+    },
+    "2024-12-04": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "Someone said thank you and I had to pretend that's not all I needed",
+      "createdAt": 1733284800000,
+      "updatedAt": 1733284800000
+    },
+    "2024-12-05": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1733371200000,
+      "updatedAt": 1733371200000
+    },
+    "2024-12-07": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1733544000000,
+      "updatedAt": 1733544000000
+    },
+    "2024-12-09": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1733716800000,
+      "updatedAt": 1733716800000
+    },
+    "2024-12-10": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Someone said thank you and I had to pretend that's not all I needed",
+      "createdAt": 1733803200000,
+      "updatedAt": 1733803200000
+    },
+    "2024-12-11": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1733889600000,
+      "updatedAt": 1733889600000
+    },
+    "2024-12-12": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "Family dinner was everything",
+      "createdAt": 1733976000000,
+      "updatedAt": 1733976000000
+    },
+    "2024-12-13": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1734062400000,
+      "updatedAt": 1734062400000
+    },
+    "2024-12-16": {
+      "emotion": "calm",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1734321600000,
+      "updatedAt": 1734321600000
+    },
+    "2024-12-18": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "The party came together perfectly",
+      "createdAt": 1734494400000,
+      "updatedAt": 1734494400000
+    },
+    "2024-12-19": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1734580800000,
+      "updatedAt": 1734580800000
+    },
+    "2024-12-20": {
+      "emotion": "excited",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1734667200000,
+      "updatedAt": 1734667200000
+    },
+    "2024-12-21": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1734753600000,
+      "updatedAt": 1734753600000
+    },
+    "2024-12-22": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "The party came together perfectly",
+      "createdAt": 1734840000000,
+      "updatedAt": 1734840000000
+    },
+    "2024-12-23": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1734926400000,
+      "updatedAt": 1734926400000
+    },
+    "2024-12-25": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1735099200000,
+      "updatedAt": 1735099200000
+    },
+    "2024-12-26": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1735185600000,
+      "updatedAt": 1735185600000
+    },
+    "2024-12-27": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1735272000000,
+      "updatedAt": 1735272000000
+    },
+    "2024-12-29": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1735444800000,
+      "updatedAt": 1735444800000
+    },
+    "2024-12-30": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1735531200000,
+      "updatedAt": 1735531200000
+    },
+    "2025-01-01": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1735704000000,
+      "updatedAt": 1735704000000
+    },
+    "2025-01-02": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1735790400000,
+      "updatedAt": 1735790400000
+    },
+    "2025-01-03": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1735876800000,
+      "updatedAt": 1735876800000
+    },
+    "2025-01-04": {
+      "emotion": "sad",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1735963200000,
+      "updatedAt": 1735963200000
+    },
+    "2025-01-06": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1736136000000,
+      "updatedAt": 1736136000000
+    },
+    "2025-01-07": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Family dinner was everything",
+      "createdAt": 1736222400000,
+      "updatedAt": 1736222400000
+    },
+    "2025-01-08": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1736308800000,
+      "updatedAt": 1736308800000
+    },
+    "2025-01-09": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1736395200000,
+      "updatedAt": 1736395200000
+    },
+    "2025-01-10": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1736481600000,
+      "updatedAt": 1736481600000
+    },
+    "2025-01-11": {
+      "emotion": "calm",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1736568000000,
+      "updatedAt": 1736568000000
+    },
+    "2025-01-12": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1736654400000,
+      "updatedAt": 1736654400000
+    },
+    "2025-01-13": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1736740800000,
+      "updatedAt": 1736740800000
+    },
+    "2025-01-14": {
+      "emotion": "angry",
+      "intensity": 7,
+      "note": "Family dinner was everything",
+      "createdAt": 1736827200000,
+      "updatedAt": 1736827200000
+    },
+    "2025-01-15": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1736913600000,
+      "updatedAt": 1736913600000
+    },
+    "2025-01-16": {
+      "emotion": "sad",
+      "intensity": 4,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1737000000000,
+      "updatedAt": 1737000000000
+    },
+    "2025-01-17": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1737086400000,
+      "updatedAt": 1737086400000
+    },
+    "2025-01-18": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "The party came together perfectly",
+      "createdAt": 1737172800000,
+      "updatedAt": 1737172800000
+    },
+    "2025-01-21": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1737432000000,
+      "updatedAt": 1737432000000
+    },
+    "2025-01-23": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1737604800000,
+      "updatedAt": 1737604800000
+    },
+    "2025-01-24": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1737691200000,
+      "updatedAt": 1737691200000
+    },
+    "2025-01-25": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1737777600000,
+      "updatedAt": 1737777600000
+    },
+    "2025-01-26": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1737864000000,
+      "updatedAt": 1737864000000
+    },
+    "2025-01-27": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "Family dinner was everything",
+      "createdAt": 1737950400000,
+      "updatedAt": 1737950400000
+    },
+    "2025-01-28": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1738036800000,
+      "updatedAt": 1738036800000
+    },
+    "2025-01-29": {
+      "emotion": "excited",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1738123200000,
+      "updatedAt": 1738123200000
+    },
+    "2025-01-30": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1738209600000,
+      "updatedAt": 1738209600000
+    },
+    "2025-01-31": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1738296000000,
+      "updatedAt": 1738296000000
+    },
+    "2025-02-01": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1738382400000,
+      "updatedAt": 1738382400000
+    },
+    "2025-02-03": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1738555200000,
+      "updatedAt": 1738555200000
+    },
+    "2025-02-04": {
+      "emotion": "sad",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1738641600000,
+      "updatedAt": 1738641600000
+    },
+    "2025-02-05": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1738728000000,
+      "updatedAt": 1738728000000
+    },
+    "2025-02-07": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1738900800000,
+      "updatedAt": 1738900800000
+    },
+    "2025-02-09": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1739073600000,
+      "updatedAt": 1739073600000
+    },
+    "2025-02-10": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1739160000000,
+      "updatedAt": 1739160000000
+    },
+    "2025-02-11": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1739246400000,
+      "updatedAt": 1739246400000
+    },
+    "2025-02-13": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1739419200000,
+      "updatedAt": 1739419200000
+    },
+    "2025-02-15": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1739592000000,
+      "updatedAt": 1739592000000
+    },
+    "2025-02-16": {
+      "emotion": "excited",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1739678400000,
+      "updatedAt": 1739678400000
+    },
+    "2025-02-17": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1739764800000,
+      "updatedAt": 1739764800000
+    },
+    "2025-02-18": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1739851200000,
+      "updatedAt": 1739851200000
+    },
+    "2025-02-19": {
+      "emotion": "anxious",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1739937600000,
+      "updatedAt": 1739937600000
+    },
+    "2025-02-20": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Family dinner was everything",
+      "createdAt": 1740024000000,
+      "updatedAt": 1740024000000
+    },
+    "2025-02-21": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1740110400000,
+      "updatedAt": 1740110400000
+    },
+    "2025-02-22": {
+      "emotion": "anxious",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1740196800000,
+      "updatedAt": 1740196800000
+    },
+    "2025-02-23": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1740283200000,
+      "updatedAt": 1740283200000
+    },
+    "2025-02-24": {
+      "emotion": "angry",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1740369600000,
+      "updatedAt": 1740369600000
+    },
+    "2025-02-25": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1740456000000,
+      "updatedAt": 1740456000000
+    },
+    "2025-02-26": {
+      "emotion": "excited",
+      "intensity": 8,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1740542400000,
+      "updatedAt": 1740542400000
+    },
+    "2025-02-27": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1740628800000,
+      "updatedAt": 1740628800000
+    },
+    "2025-02-28": {
+      "emotion": "happy",
+      "intensity": 10,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1740715200000,
+      "updatedAt": 1740715200000
+    },
+    "2025-03-01": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1740801600000,
+      "updatedAt": 1740801600000
+    },
+    "2025-03-02": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1740888000000,
+      "updatedAt": 1740888000000
+    },
+    "2025-03-03": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1740974400000,
+      "updatedAt": 1740974400000
+    },
+    "2025-03-05": {
+      "emotion": "calm",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1741147200000,
+      "updatedAt": 1741147200000
+    },
+    "2025-03-06": {
+      "emotion": "excited",
+      "intensity": 8,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1741233600000,
+      "updatedAt": 1741233600000
+    },
+    "2025-03-07": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1741320000000,
+      "updatedAt": 1741320000000
+    },
+    "2025-03-08": {
+      "emotion": "anxious",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1741406400000,
+      "updatedAt": 1741406400000
+    },
+    "2025-03-09": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1741492800000,
+      "updatedAt": 1741492800000
+    },
+    "2025-03-10": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1741579200000,
+      "updatedAt": 1741579200000
+    },
+    "2025-03-11": {
+      "emotion": "happy",
+      "intensity": 9,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1741665600000,
+      "updatedAt": 1741665600000
+    },
+    "2025-03-13": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1741838400000,
+      "updatedAt": 1741838400000
+    },
+    "2025-03-14": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1741924800000,
+      "updatedAt": 1741924800000
+    },
+    "2025-03-15": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1742011200000,
+      "updatedAt": 1742011200000
+    },
+    "2025-03-16": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1742097600000,
+      "updatedAt": 1742097600000
+    },
+    "2025-03-17": {
+      "emotion": "anxious",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1742184000000,
+      "updatedAt": 1742184000000
+    },
+    "2025-03-18": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1742270400000,
+      "updatedAt": 1742270400000
+    },
+    "2025-03-19": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1742356800000,
+      "updatedAt": 1742356800000
+    },
+    "2025-03-20": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1742443200000,
+      "updatedAt": 1742443200000
+    },
+    "2025-03-21": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1742529600000,
+      "updatedAt": 1742529600000
+    },
+    "2025-03-23": {
+      "emotion": "happy",
+      "intensity": 2,
+      "note": "",
+      "createdAt": 1742702400000,
+      "updatedAt": 1742702400000
+    },
+    "2025-03-24": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1742788800000,
+      "updatedAt": 1742788800000
+    },
+    "2025-03-25": {
+      "emotion": "excited",
+      "intensity": 8,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1742875200000,
+      "updatedAt": 1742875200000
+    },
+    "2025-03-26": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1742961600000,
+      "updatedAt": 1742961600000
+    },
+    "2025-03-27": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1743048000000,
+      "updatedAt": 1743048000000
+    },
+    "2025-03-28": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1743134400000,
+      "updatedAt": 1743134400000
+    },
+    "2025-03-29": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1743220800000,
+      "updatedAt": 1743220800000
+    },
+    "2025-03-30": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1743307200000,
+      "updatedAt": 1743307200000
+    },
+    "2025-03-31": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1743393600000,
+      "updatedAt": 1743393600000
+    },
+    "2025-04-01": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1743480000000,
+      "updatedAt": 1743480000000
+    },
+    "2025-04-02": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Family dinner was everything",
+      "createdAt": 1743566400000,
+      "updatedAt": 1743566400000
+    },
+    "2025-04-03": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1743652800000,
+      "updatedAt": 1743652800000
+    },
+    "2025-04-04": {
+      "emotion": "angry",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1743739200000,
+      "updatedAt": 1743739200000
+    },
+    "2025-04-05": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1743825600000,
+      "updatedAt": 1743825600000
+    },
+    "2025-04-06": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1743912000000,
+      "updatedAt": 1743912000000
+    },
+    "2025-04-09": {
+      "emotion": "angry",
+      "intensity": 8,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1744171200000,
+      "updatedAt": 1744171200000
+    },
+    "2025-04-10": {
+      "emotion": "excited",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1744257600000,
+      "updatedAt": 1744257600000
+    },
+    "2025-04-11": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1744344000000,
+      "updatedAt": 1744344000000
+    },
+    "2025-04-12": {
+      "emotion": "happy",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1744430400000,
+      "updatedAt": 1744430400000
+    },
+    "2025-04-15": {
+      "emotion": "sad",
+      "intensity": 8,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1744689600000,
+      "updatedAt": 1744689600000
+    },
+    "2025-04-16": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1744776000000,
+      "updatedAt": 1744776000000
+    },
+    "2025-04-17": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1744862400000,
+      "updatedAt": 1744862400000
+    },
+    "2025-04-19": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1745035200000,
+      "updatedAt": 1745035200000
+    },
+    "2025-04-20": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1745121600000,
+      "updatedAt": 1745121600000
+    },
+    "2025-04-21": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1745208000000,
+      "updatedAt": 1745208000000
+    },
+    "2025-04-22": {
+      "emotion": "calm",
+      "intensity": 4,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1745294400000,
+      "updatedAt": 1745294400000
+    },
+    "2025-04-23": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1745380800000,
+      "updatedAt": 1745380800000
+    },
+    "2025-04-24": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1745467200000,
+      "updatedAt": 1745467200000
+    },
+    "2025-04-25": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1745553600000,
+      "updatedAt": 1745553600000
+    },
+    "2025-04-26": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1745640000000,
+      "updatedAt": 1745640000000
+    },
+    "2025-04-27": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1745726400000,
+      "updatedAt": 1745726400000
+    },
+    "2025-04-28": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1745812800000,
+      "updatedAt": 1745812800000
+    },
+    "2025-04-29": {
+      "emotion": "angry",
+      "intensity": 7,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1745899200000,
+      "updatedAt": 1745899200000
+    },
+    "2025-05-01": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1746072000000,
+      "updatedAt": 1746072000000
+    },
+    "2025-05-03": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1746244800000,
+      "updatedAt": 1746244800000
+    },
+    "2025-05-04": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1746331200000,
+      "updatedAt": 1746331200000
+    },
+    "2025-05-05": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1746417600000,
+      "updatedAt": 1746417600000
+    },
+    "2025-05-06": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1746504000000,
+      "updatedAt": 1746504000000
+    },
+    "2025-05-07": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1746590400000,
+      "updatedAt": 1746590400000
+    },
+    "2025-05-08": {
+      "emotion": "happy",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1746676800000,
+      "updatedAt": 1746676800000
+    },
+    "2025-05-09": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1746763200000,
+      "updatedAt": 1746763200000
+    },
+    "2025-05-10": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1746849600000,
+      "updatedAt": 1746849600000
+    },
+    "2025-05-11": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "The party came together perfectly",
+      "createdAt": 1746936000000,
+      "updatedAt": 1746936000000
+    },
+    "2025-05-12": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1747022400000,
+      "updatedAt": 1747022400000
+    },
+    "2025-05-13": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1747108800000,
+      "updatedAt": 1747108800000
+    },
+    "2025-05-15": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1747281600000,
+      "updatedAt": 1747281600000
+    },
+    "2025-05-16": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Family dinner was everything",
+      "createdAt": 1747368000000,
+      "updatedAt": 1747368000000
+    },
+    "2025-05-17": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1747454400000,
+      "updatedAt": 1747454400000
+    },
+    "2025-05-18": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1747540800000,
+      "updatedAt": 1747540800000
+    },
+    "2025-05-19": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1747627200000,
+      "updatedAt": 1747627200000
+    },
+    "2025-05-20": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1747713600000,
+      "updatedAt": 1747713600000
+    },
+    "2025-05-21": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1747800000000,
+      "updatedAt": 1747800000000
+    },
+    "2025-05-22": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1747886400000,
+      "updatedAt": 1747886400000
+    },
+    "2025-05-23": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1747972800000,
+      "updatedAt": 1747972800000
+    },
+    "2025-05-24": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1748059200000,
+      "updatedAt": 1748059200000
+    },
+    "2025-05-25": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1748145600000,
+      "updatedAt": 1748145600000
+    },
+    "2025-05-27": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1748318400000,
+      "updatedAt": 1748318400000
+    },
+    "2025-05-28": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1748404800000,
+      "updatedAt": 1748404800000
+    },
+    "2025-05-29": {
+      "emotion": "excited",
+      "intensity": 8,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1748491200000,
+      "updatedAt": 1748491200000
+    },
+    "2025-05-30": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1748577600000,
+      "updatedAt": 1748577600000
+    },
+    "2025-05-31": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1748664000000,
+      "updatedAt": 1748664000000
+    },
+    "2025-06-04": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1749009600000,
+      "updatedAt": 1749009600000
+    },
+    "2025-06-05": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1749096000000,
+      "updatedAt": 1749096000000
+    },
+    "2025-06-06": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1749182400000,
+      "updatedAt": 1749182400000
+    },
+    "2025-06-07": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "The party came together perfectly",
+      "createdAt": 1749268800000,
+      "updatedAt": 1749268800000
+    },
+    "2025-06-08": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1749355200000,
+      "updatedAt": 1749355200000
+    },
+    "2025-06-10": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1749528000000,
+      "updatedAt": 1749528000000
+    },
+    "2025-06-11": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1749614400000,
+      "updatedAt": 1749614400000
+    },
+    "2025-06-12": {
+      "emotion": "excited",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1749700800000,
+      "updatedAt": 1749700800000
+    },
+    "2025-06-15": {
+      "emotion": "angry",
+      "intensity": 5,
+      "note": "Someone was struggling and I could tell before they said anything",
+      "createdAt": 1749960000000,
+      "updatedAt": 1749960000000
+    },
+    "2025-06-17": {
+      "emotion": "excited",
+      "intensity": 9,
+      "note": "Someone said thank you and I had to pretend that's not all I needed",
+      "createdAt": 1750132800000,
+      "updatedAt": 1750132800000
+    },
+    "2025-06-18": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "Made sure everyone felt included today",
+      "createdAt": 1750219200000,
+      "updatedAt": 1750219200000
+    },
+    "2025-06-19": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1750305600000,
+      "updatedAt": 1750305600000
+    },
+    "2025-06-20": {
+      "emotion": "calm",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1750392000000,
+      "updatedAt": 1750392000000
+    },
+    "2025-06-21": {
+      "emotion": "calm",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1750478400000,
+      "updatedAt": 1750478400000
+    },
+    "2025-06-22": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1750564800000,
+      "updatedAt": 1750564800000
+    },
+    "2025-06-23": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1750651200000,
+      "updatedAt": 1750651200000
+    },
+    "2025-06-24": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1750737600000,
+      "updatedAt": 1750737600000
+    },
+    "2025-06-25": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Someone said thank you and I had to pretend that's not all I needed",
+      "createdAt": 1750824000000,
+      "updatedAt": 1750824000000
+    },
+    "2025-06-26": {
+      "emotion": "anxious",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1750910400000,
+      "updatedAt": 1750910400000
+    },
+    "2025-06-27": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1750996800000,
+      "updatedAt": 1750996800000
+    },
+    "2025-06-28": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1751083200000,
+      "updatedAt": 1751083200000
+    },
+    "2025-06-29": {
+      "emotion": "happy",
+      "intensity": 4,
+      "note": "",
+      "createdAt": 1751169600000,
+      "updatedAt": 1751169600000
+    },
+    "2025-06-30": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1751256000000,
+      "updatedAt": 1751256000000
+    },
+    "2025-07-01": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1751342400000,
+      "updatedAt": 1751342400000
+    },
+    "2025-07-02": {
+      "emotion": "sad",
+      "intensity": 5,
+      "note": "Someone said thank you and I had to pretend that's not all I needed",
+      "createdAt": 1751428800000,
+      "updatedAt": 1751428800000
+    },
+    "2025-07-03": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1751515200000,
+      "updatedAt": 1751515200000
+    },
+    "2025-07-04": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1751601600000,
+      "updatedAt": 1751601600000
+    },
+    "2025-07-05": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1751688000000,
+      "updatedAt": 1751688000000
+    },
+    "2025-07-06": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1751774400000,
+      "updatedAt": 1751774400000
+    },
+    "2025-07-07": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1751860800000,
+      "updatedAt": 1751860800000
+    },
+    "2025-07-08": {
+      "emotion": "excited",
+      "intensity": 5,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1751947200000,
+      "updatedAt": 1751947200000
+    },
+    "2025-07-11": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1752206400000,
+      "updatedAt": 1752206400000
+    },
+    "2025-07-13": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1752379200000,
+      "updatedAt": 1752379200000
+    },
+    "2025-07-15": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1752552000000,
+      "updatedAt": 1752552000000
+    },
+    "2025-07-16": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1752638400000,
+      "updatedAt": 1752638400000
+    },
+    "2025-07-17": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "The party came together perfectly",
+      "createdAt": 1752724800000,
+      "updatedAt": 1752724800000
+    },
+    "2025-07-18": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1752811200000,
+      "updatedAt": 1752811200000
+    },
+    "2025-07-19": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1752897600000,
+      "updatedAt": 1752897600000
+    },
+    "2025-07-20": {
+      "emotion": "happy",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1752984000000,
+      "updatedAt": 1752984000000
+    },
+    "2025-07-21": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1753070400000,
+      "updatedAt": 1753070400000
+    },
+    "2025-07-23": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1753243200000,
+      "updatedAt": 1753243200000
+    },
+    "2025-07-24": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1753329600000,
+      "updatedAt": 1753329600000
+    },
+    "2025-07-25": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1753416000000,
+      "updatedAt": 1753416000000
+    },
+    "2025-07-27": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1753588800000,
+      "updatedAt": 1753588800000
+    },
+    "2025-07-28": {
+      "emotion": "anxious",
+      "intensity": 4,
+      "note": "The party came together perfectly",
+      "createdAt": 1753675200000,
+      "updatedAt": 1753675200000
+    },
+    "2025-07-29": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1753761600000,
+      "updatedAt": 1753761600000
+    },
+    "2025-07-30": {
+      "emotion": "angry",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1753848000000,
+      "updatedAt": 1753848000000
+    },
+    "2025-08-01": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1754020800000,
+      "updatedAt": 1754020800000
+    },
+    "2025-08-02": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1754107200000,
+      "updatedAt": 1754107200000
+    },
+    "2025-08-03": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1754193600000,
+      "updatedAt": 1754193600000
+    },
+    "2025-08-04": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1754280000000,
+      "updatedAt": 1754280000000
+    },
+    "2025-08-05": {
+      "emotion": "angry",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1754366400000,
+      "updatedAt": 1754366400000
+    },
+    "2025-08-07": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1754539200000,
+      "updatedAt": 1754539200000
+    },
+    "2025-08-08": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1754625600000,
+      "updatedAt": 1754625600000
+    },
+    "2025-08-09": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1754712000000,
+      "updatedAt": 1754712000000
+    },
+    "2025-08-10": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1754798400000,
+      "updatedAt": 1754798400000
+    },
+    "2025-08-11": {
+      "emotion": "sad",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1754884800000,
+      "updatedAt": 1754884800000
+    },
+    "2025-08-12": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1754971200000,
+      "updatedAt": 1754971200000
+    },
+    "2025-08-13": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Family dinner was everything",
+      "createdAt": 1755057600000,
+      "updatedAt": 1755057600000
+    },
+    "2025-08-14": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1755144000000,
+      "updatedAt": 1755144000000
+    },
+    "2025-08-15": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1755230400000,
+      "updatedAt": 1755230400000
+    },
+    "2025-08-16": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1755316800000,
+      "updatedAt": 1755316800000
+    },
+    "2025-08-17": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "Family dinner was everything",
+      "createdAt": 1755403200000,
+      "updatedAt": 1755403200000
+    },
+    "2025-08-18": {
+      "emotion": "sad",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1755489600000,
+      "updatedAt": 1755489600000
+    },
+    "2025-08-19": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1755576000000,
+      "updatedAt": 1755576000000
+    },
+    "2025-08-20": {
+      "emotion": "excited",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1755662400000,
+      "updatedAt": 1755662400000
+    },
+    "2025-08-21": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Someone said thank you and I had to pretend that's not all I needed",
+      "createdAt": 1755748800000,
+      "updatedAt": 1755748800000
+    },
+    "2025-08-22": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Family dinner was everything",
+      "createdAt": 1755835200000,
+      "updatedAt": 1755835200000
+    },
+    "2025-08-24": {
+      "emotion": "anxious",
+      "intensity": 10,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1756008000000,
+      "updatedAt": 1756008000000
+    },
+    "2025-08-25": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1756094400000,
+      "updatedAt": 1756094400000
+    },
+    "2025-08-26": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Made sure everyone felt included today",
+      "createdAt": 1756180800000,
+      "updatedAt": 1756180800000
+    },
+    "2025-08-27": {
+      "emotion": "anxious",
+      "intensity": 10,
+      "note": "",
+      "createdAt": 1756267200000,
+      "updatedAt": 1756267200000
+    },
+    "2025-08-28": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1756353600000,
+      "updatedAt": 1756353600000
+    },
+    "2025-08-29": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1756440000000,
+      "updatedAt": 1756440000000
+    },
+    "2025-08-30": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1756526400000,
+      "updatedAt": 1756526400000
+    },
+    "2025-08-31": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1756612800000,
+      "updatedAt": 1756612800000
+    },
+    "2025-09-01": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1756699200000,
+      "updatedAt": 1756699200000
+    },
+    "2025-09-02": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1756785600000,
+      "updatedAt": 1756785600000
+    },
+    "2025-09-03": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1756872000000,
+      "updatedAt": 1756872000000
+    },
+    "2025-09-05": {
+      "emotion": "happy",
+      "intensity": 9,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1757044800000,
+      "updatedAt": 1757044800000
+    },
+    "2025-09-06": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1757131200000,
+      "updatedAt": 1757131200000
+    },
+    "2025-09-07": {
+      "emotion": "angry",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1757217600000,
+      "updatedAt": 1757217600000
+    },
+    "2025-09-08": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1757304000000,
+      "updatedAt": 1757304000000
+    },
+    "2025-09-10": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1757476800000,
+      "updatedAt": 1757476800000
+    },
+    "2025-09-11": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1757563200000,
+      "updatedAt": 1757563200000
+    },
+    "2025-09-12": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1757649600000,
+      "updatedAt": 1757649600000
+    },
+    "2025-09-13": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1757736000000,
+      "updatedAt": 1757736000000
+    },
+    "2025-09-14": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1757822400000,
+      "updatedAt": 1757822400000
+    },
+    "2025-09-15": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1757908800000,
+      "updatedAt": 1757908800000
+    },
+    "2025-09-16": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1757995200000,
+      "updatedAt": 1757995200000
+    },
+    "2025-09-17": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1758081600000,
+      "updatedAt": 1758081600000
+    },
+    "2025-09-18": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1758168000000,
+      "updatedAt": 1758168000000
+    },
+    "2025-09-19": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1758254400000,
+      "updatedAt": 1758254400000
+    },
+    "2025-09-20": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1758340800000,
+      "updatedAt": 1758340800000
+    },
+    "2025-09-21": {
+      "emotion": "excited",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1758427200000,
+      "updatedAt": 1758427200000
+    },
+    "2025-09-22": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1758513600000,
+      "updatedAt": 1758513600000
+    },
+    "2025-09-23": {
+      "emotion": "excited",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1758600000000,
+      "updatedAt": 1758600000000
+    },
+    "2025-09-24": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1758686400000,
+      "updatedAt": 1758686400000
+    },
+    "2025-09-25": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1758772800000,
+      "updatedAt": 1758772800000
+    },
+    "2025-09-26": {
+      "emotion": "sad",
+      "intensity": 6,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1758859200000,
+      "updatedAt": 1758859200000
+    },
+    "2025-09-27": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1758945600000,
+      "updatedAt": 1758945600000
+    },
+    "2025-09-28": {
+      "emotion": "excited",
+      "intensity": 7,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1759032000000,
+      "updatedAt": 1759032000000
+    },
+    "2025-09-29": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1759118400000,
+      "updatedAt": 1759118400000
+    },
+    "2025-10-03": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1759464000000,
+      "updatedAt": 1759464000000
+    },
+    "2025-10-04": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1759550400000,
+      "updatedAt": 1759550400000
+    },
+    "2025-10-05": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1759636800000,
+      "updatedAt": 1759636800000
+    },
+    "2025-10-06": {
+      "emotion": "calm",
+      "intensity": 5,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1759723200000,
+      "updatedAt": 1759723200000
+    },
+    "2025-10-07": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1759809600000,
+      "updatedAt": 1759809600000
+    },
+    "2025-10-08": {
+      "emotion": "excited",
+      "intensity": 5,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1759896000000,
+      "updatedAt": 1759896000000
+    },
+    "2025-10-10": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1760068800000,
+      "updatedAt": 1760068800000
+    },
+    "2025-10-12": {
+      "emotion": "calm",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1760241600000,
+      "updatedAt": 1760241600000
+    },
+    "2025-10-13": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1760328000000,
+      "updatedAt": 1760328000000
+    },
+    "2025-10-14": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1760414400000,
+      "updatedAt": 1760414400000
+    },
+    "2025-10-15": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1760500800000,
+      "updatedAt": 1760500800000
+    },
+    "2025-10-17": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1760673600000,
+      "updatedAt": 1760673600000
+    },
+    "2025-10-18": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1760760000000,
+      "updatedAt": 1760760000000
+    },
+    "2025-10-19": {
+      "emotion": "anxious",
+      "intensity": 9,
+      "note": "The party came together perfectly",
+      "createdAt": 1760846400000,
+      "updatedAt": 1760846400000
+    },
+    "2025-10-20": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1760932800000,
+      "updatedAt": 1760932800000
+    },
+    "2025-10-21": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1761019200000,
+      "updatedAt": 1761019200000
+    },
+    "2025-10-22": {
+      "emotion": "sad",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1761105600000,
+      "updatedAt": 1761105600000
+    },
+    "2025-10-23": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1761192000000,
+      "updatedAt": 1761192000000
+    },
+    "2025-10-26": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1761451200000,
+      "updatedAt": 1761451200000
+    },
+    "2025-10-28": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1761624000000,
+      "updatedAt": 1761624000000
+    },
+    "2025-10-30": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1761796800000,
+      "updatedAt": 1761796800000
+    },
+    "2025-10-31": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1761883200000,
+      "updatedAt": 1761883200000
+    },
+    "2025-11-01": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1761969600000,
+      "updatedAt": 1761969600000
+    },
+    "2025-11-02": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1762056000000,
+      "updatedAt": 1762056000000
+    },
+    "2025-11-03": {
+      "emotion": "anxious",
+      "intensity": 8,
+      "note": "Remembered everyone's coffee order. It matters.",
+      "createdAt": 1762142400000,
+      "updatedAt": 1762142400000
+    },
+    "2025-11-05": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1762315200000,
+      "updatedAt": 1762315200000
+    },
+    "2025-11-06": {
+      "emotion": "calm",
+      "intensity": 4,
+      "note": "The party came together perfectly",
+      "createdAt": 1762401600000,
+      "updatedAt": 1762401600000
+    },
+    "2025-11-07": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "The vibe was off and I don't know why",
+      "createdAt": 1762488000000,
+      "updatedAt": 1762488000000
+    },
+    "2025-11-09": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1762660800000,
+      "updatedAt": 1762660800000
+    },
+    "2025-11-10": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1762747200000,
+      "updatedAt": 1762747200000
+    },
+    "2025-11-11": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1762833600000,
+      "updatedAt": 1762833600000
+    },
+    "2025-11-12": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1762920000000,
+      "updatedAt": 1762920000000
+    },
+    "2025-11-13": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1763006400000,
+      "updatedAt": 1763006400000
+    },
+    "2025-11-14": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1763092800000,
+      "updatedAt": 1763092800000
+    },
+    "2025-11-15": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1763179200000,
+      "updatedAt": 1763179200000
+    },
+    "2025-11-16": {
+      "emotion": "calm",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1763265600000,
+      "updatedAt": 1763265600000
+    },
+    "2025-11-17": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1763352000000,
+      "updatedAt": 1763352000000
+    },
+    "2025-11-18": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1763438400000,
+      "updatedAt": 1763438400000
+    },
+    "2025-11-19": {
+      "emotion": "excited",
+      "intensity": 5,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1763524800000,
+      "updatedAt": 1763524800000
+    },
+    "2025-11-20": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1763611200000,
+      "updatedAt": 1763611200000
+    },
+    "2025-11-21": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "Lunch with the team. Everyone seemed happy.",
+      "createdAt": 1763697600000,
+      "updatedAt": 1763697600000
+    },
+    "2025-11-22": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Family dinner was everything",
+      "createdAt": 1763784000000,
+      "updatedAt": 1763784000000
+    },
+    "2025-11-24": {
+      "emotion": "excited",
+      "intensity": 6,
+      "note": "The party came together perfectly",
+      "createdAt": 1763956800000,
+      "updatedAt": 1763956800000
+    },
+    "2025-11-25": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1764043200000,
+      "updatedAt": 1764043200000
+    },
+    "2025-11-26": {
+      "emotion": "calm",
+      "intensity": 4,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1764129600000,
+      "updatedAt": 1764129600000
+    },
+    "2025-11-27": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1764216000000,
+      "updatedAt": 1764216000000
+    },
+    "2025-11-28": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Felt disconnected from the people around me. Uncomfortable.",
+      "createdAt": 1764302400000,
+      "updatedAt": 1764302400000
+    },
+    "2025-11-30": {
+      "emotion": "calm",
+      "intensity": 8,
+      "note": "The party came together perfectly",
+      "createdAt": 1764475200000,
+      "updatedAt": 1764475200000
+    },
+    "2025-12-01": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1764561600000,
+      "updatedAt": 1764561600000
+    },
+    "2025-12-02": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Someone said thank you and I had to pretend that's not all I needed",
+      "createdAt": 1764648000000,
+      "updatedAt": 1764648000000
+    },
+    "2025-12-03": {
+      "emotion": "sad",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1764734400000,
+      "updatedAt": 1764734400000
+    },
+    "2025-12-04": {
+      "emotion": "calm",
+      "intensity": 9,
+      "note": "",
+      "createdAt": 1764820800000,
+      "updatedAt": 1764820800000
+    },
+    "2025-12-06": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1764993600000,
+      "updatedAt": 1764993600000
+    },
+    "2025-12-07": {
+      "emotion": "anxious",
+      "intensity": 7,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1765080000000,
+      "updatedAt": 1765080000000
+    },
+    "2025-12-08": {
+      "emotion": "calm",
+      "intensity": 7,
+      "note": "Group energy was high today \u2014 fed off it all day",
+      "createdAt": 1765166400000,
+      "updatedAt": 1765166400000
+    },
+    "2025-12-09": {
+      "emotion": "calm",
+      "intensity": 6,
+      "note": "Helped someone today and it felt exactly right",
+      "createdAt": 1765252800000,
+      "updatedAt": 1765252800000
+    },
+    "2025-12-11": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1765425600000,
+      "updatedAt": 1765425600000
+    },
+    "2025-12-12": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1765512000000,
+      "updatedAt": 1765512000000
+    },
+    "2025-12-14": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "Family dinner was everything",
+      "createdAt": 1765684800000,
+      "updatedAt": 1765684800000
+    },
+    "2025-12-15": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1765771200000,
+      "updatedAt": 1765771200000
+    },
+    "2025-12-16": {
+      "emotion": "excited",
+      "intensity": 8,
+      "note": "Everyone left happy. That's enough.",
+      "createdAt": 1765857600000,
+      "updatedAt": 1765857600000
+    },
+    "2025-12-17": {
+      "emotion": "happy",
+      "intensity": 5,
+      "note": "The party came together perfectly",
+      "createdAt": 1765944000000,
+      "updatedAt": 1765944000000
+    },
+    "2025-12-18": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "Good conversation. The real kind.",
+      "createdAt": 1766030400000,
+      "updatedAt": 1766030400000
+    },
+    "2025-12-19": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1766116800000,
+      "updatedAt": 1766116800000
+    },
+    "2025-12-20": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "Held the group together when it was falling apart",
+      "createdAt": 1766203200000,
+      "updatedAt": 1766203200000
+    },
+    "2025-12-21": {
+      "emotion": "sad",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1766289600000,
+      "updatedAt": 1766289600000
+    },
+    "2025-12-22": {
+      "emotion": "anxious",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1766376000000,
+      "updatedAt": 1766376000000
+    },
+    "2025-12-23": {
+      "emotion": "happy",
+      "intensity": 8,
+      "note": "",
+      "createdAt": 1766462400000,
+      "updatedAt": 1766462400000
+    },
+    "2025-12-24": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "Organized the birthday thing. Worth every minute.",
+      "createdAt": 1766548800000,
+      "updatedAt": 1766548800000
+    },
+    "2025-12-26": {
+      "emotion": "happy",
+      "intensity": 7,
+      "note": "",
+      "createdAt": 1766721600000,
+      "updatedAt": 1766721600000
+    },
+    "2025-12-28": {
+      "emotion": "anxious",
+      "intensity": 5,
+      "note": "",
+      "createdAt": 1766894400000,
+      "updatedAt": 1766894400000
+    },
+    "2025-12-29": {
+      "emotion": "happy",
+      "intensity": 6,
+      "note": "",
+      "createdAt": 1766980800000,
+      "updatedAt": 1766980800000
+    },
+    "2025-12-31": {
+      "emotion": "anxious",
+      "intensity": 9,
+      "note": "Made sure everyone felt included today",
+      "createdAt": 1767153600000,
+      "updatedAt": 1767153600000
+    }
+  }
+}
