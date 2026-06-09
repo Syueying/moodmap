@@ -580,6 +580,147 @@ textarea:focus { outline: none; border-color: rgba(108, 92, 231, 0.42); }
 
 .dp-today-btn:hover { background: rgba(108, 92, 231, 0.08); }
 
+/* ══════════════════════════════════
+   PERSONALITY PATTERNS GALLERY
+══════════════════════════════════ */
+.profiles-card {
+  padding: 24px 28px 22px;
+}
+
+.profiles-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.profiles-title { font-size: 16px; font-weight: 700; }
+.profiles-sub   { font-size: 12px; color: var(--muted); }
+
+.profiles-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+/* ── Individual profile card ── */
+.profile-card {
+  background: rgba(255, 255, 255, 0.42);
+  border: 1px solid rgba(255, 255, 255, 0.68);
+  border-radius: 14px;
+  padding: 14px;
+  cursor: pointer;
+  transition: transform 0.14s, box-shadow 0.14s;
+  box-shadow: 0 2px 8px rgba(80, 60, 200, 0.06);
+}
+
+.profile-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(80, 60, 200, 0.12);
+}
+
+.pc-header     { margin-bottom: 8px; }
+.pc-type       { font-size: 14px; font-weight: 800; letter-spacing: -0.2px; display: block; }
+.pc-tagline    { font-size: 10px; color: var(--muted); margin-top: 1px; display: block; }
+
+/* Emotion distribution chips */
+.pc-dist {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.dist-chip {
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 99px;
+  border: 1px solid;
+  white-space: nowrap;
+}
+
+/* Mini heatmap */
+.mini-heatmap  { margin-bottom: 11px; overflow: hidden; }
+
+.mh-grid       { display: flex; gap: 1px; }
+.mh-col        { display: flex; flex-direction: column; gap: 1px; }
+
+.mh-cell {
+  width: 4px; height: 4px;
+  border-radius: 1px;
+  background: rgba(200, 195, 255, 0.22);
+  flex-shrink: 0;
+}
+
+/* Preview button inside card */
+.btn-preview {
+  width: 100%;
+  background: none;
+  border: 1px solid rgba(200, 195, 255, 0.35);
+  border-radius: 8px;
+  padding: 6px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--muted);
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.12s;
+}
+
+.btn-preview:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: rgba(108, 92, 231, 0.06);
+}
+
+/* Active preview card highlight */
+.profile-card.previewing {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* ── Preview banner (fixed bottom) ── */
+#preview-banner {
+  position: fixed;
+  bottom: 22px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 500;
+  display: none;
+  align-items: center;
+  gap: 10px;
+  background: rgba(28, 28, 46, 0.90);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  border-radius: 12px;
+  padding: 10px 16px;
+  white-space: nowrap;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+}
+
+#preview-banner.show { display: flex; }
+
+.banner-label  { font-size: 13px; font-weight: 600; color: #fff; }
+.banner-hint   { font-size: 12px; color: rgba(255,255,255,0.50); }
+
+.btn-exit-preview {
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.20);
+  border-radius: 8px;
+  padding: 5px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.12s;
+  margin-left: 4px;
+}
+
+.btn-exit-preview:hover { background: rgba(255, 255, 255, 0.22); }
+
 /* ── Toast ── */
 .toast {
   position: fixed; bottom: 22px; left: 50%;

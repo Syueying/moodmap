@@ -33,6 +33,7 @@ async function init() {
 
   // Build initial view
   rebuildYearView();
+  buildProfilesSection();
 
   // Tooltip + actions
   setupTooltip();
@@ -569,6 +570,209 @@ function showToast(msg) {
   el.textContent = msg;
   el.classList.add('show');
   setTimeout(() => el.classList.remove('show'), 2200);
+}
+
+// ═══════════════════════════════════════════════════
+// PERSONALITY PATTERNS GALLERY
+// ═══════════════════════════════════════════════════
+
+const PROFILE_TYPES = ['ENTP', 'INFP', 'INTJ', 'ESFJ', 'ENFP', 'ISTP'];
+const PROFILE_TAGLINES = {
+  ENTP: 'The Debater',
+  INFP: 'The Mediator',
+  INTJ: 'The Architect',
+  ESFJ: 'The Consul',
+  ENFP: 'The Campaigner',
+  ISTP: 'The Virtuoso',
+};
+
+let previewActive = false;
+let previewBackup = null;
+let previewCard   = null;
+
+async function buildProfilesSection() {
+  const grid = document.getElementById('profiles-grid');
+
+  // Load all 6 profiles in parallel, preserve order
+  const cards = await Promise.all(
+    PROFILE_TYPES.map(async type => {
+      try {
+        const url  = chrome.runtime.getURL(`mock_data/moodmap-${type}.json`);
+        const res  = await fetch(url);
+        const data = await res.json();
+        return buildProfileCard(type, data.entries);
+      } catch {
+        return null;
+      }
+    })
+  );
+
+  cards.filter(Boolean).forEach(card => grid.appendChild(card));
+
+  // Wire exit-preview button
+  document.getElementById('btn-exit-preview')
+    .addEventListener('click', exitPreview);
+}
+
+function buildProfileCard(type, entries) {
+  const card = document.createElement('div');
+  card.className = 'profile-card';
+
+  // Header
+  const hdr = document.createElement('div');
+  hdr.className = 'pc-header';
+  hdr.innerHTML = `<span class="pc-type">${type}</span>
+                   <span class="pc-tagline">${PROFILE_TAGLINES[type]}</span>`;
+  card.appendChild(hdr);
+
+  // Top-3 emotion chips
+  card.appendChild(buildEmotionDist(entries, 2025));
+
+  // Mini heatmap
+  card.appendChild(buildMiniHeatmap(entries, 2025));
+
+  // Preview button
+  const btn = document.createElement('button');
+  btn.className   = 'btn-preview';
+  btn.textContent = '↗ Preview';
+  btn.addEventListener('click', () => enterPreview(type, entries, card));
+  card.appendChild(btn);
+
+  return card;
+}
+
+function buildEmotionDist(entries, year) {
+  const yearVals = Object.entries(entries)
+    .filter(([k]) => k.startsWith(String(year)))
+    .map(([, v]) => v);
+
+  const total  = yearVals.length || 1;
+  const counts = Object.fromEntries(EMOTIONS.map(e => [e, 0]));
+  yearVals.forEach(v => counts[v.emotion]++);
+
+  const top3 = Object.entries(counts)
+    .filter(([, n]) => n > 0)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 3);
+
+  const el = document.createElement('div');
+  el.className = 'pc-dist';
+
+  top3.forEach(([emotion, n]) => {
+    const pct  = Math.round(n / total * 100);
+    const chip = document.createElement('span');
+    chip.className                = 'dist-chip';
+    chip.style.background         = `color-mix(in srgb, ${COLORS[emotion]} 12%, white)`;
+    chip.style.color              = COLORS[emotion];
+    chip.style.borderColor        = `color-mix(in srgb, ${COLORS[emotion]} 28%, white)`;
+    chip.textContent              = `${emotion} ${pct}%`;
+    el.appendChild(chip);
+  });
+
+  return el;
+}
+
+function buildMiniHeatmap(entries, year) {
+  const wrap      = document.createElement('div');
+  wrap.className  = 'mini-heatmap';
+  const grid      = document.createElement('div');
+  grid.className  = 'mh-grid';
+
+  const yearStart = new Date(year, 0, 1);
+  const yearEnd   = new Date(year, 11, 31);
+  const gridStart = new Date(yearStart);
+  gridStart.setDate(gridStart.getDate() - gridStart.getDay());
+
+  for (let w = 0; w < 53; w++) {
+    const col = document.createElement('div');
+    col.className = 'mh-col';
+
+    for (let d = 0; d < 7; d++) {
+      const dt   = new Date(gridStart);
+      dt.setDate(gridStart.getDate() + w * 7 + d);
+      const cell = document.createElement('div');
+      cell.className = 'mh-cell';
+
+      const inYear = dt >= yearStart && dt <= yearEnd;
+      if (!inYear) {
+        cell.style.opacity = '0';
+      } else {
+        const entry = entries[toDateStr(dt)];
+        if (entry) cell.style.background = cellColor(entry.emotion, entry.intensity);
+      }
+      col.appendChild(cell);
+    }
+    grid.appendChild(col);
+  }
+
+  wrap.appendChild(grid);
+  return wrap;
+}
+
+// ── Preview mode ──────────────────────────────────
+
+function enterPreview(type, mockEntries, card) {
+  if (previewActive) exitPreview();
+
+  previewBackup = {
+    entries:      { ...allEntries },
+    year:         currentYear,
+    selectedDate: selectedDate,
+  };
+  previewActive = true;
+  previewCard   = card;
+
+  // Swap in-memory state (storage is never touched)
+  allEntries   = mockEntries;
+  currentYear  = 2025;
+  selectedDate = `2025-06-09`;
+
+  rebuildYearView();
+  updateYearNavButtons();
+  updateDateHeader(selectedDate);
+  loadDateIntoForm(selectedDate);
+
+  // Highlight the active card
+  card.classList.add('previewing');
+  card.querySelector('.btn-preview').textContent = '✓ Previewing';
+
+  // Disable log panel while previewing
+  const saveBtn = document.getElementById('btn-save');
+  saveBtn.disabled    = true;
+  saveBtn.textContent = 'Exit preview to log';
+
+  // Show banner
+  document.getElementById('preview-type').textContent = `${type} — ${PROFILE_TAGLINES[type]}`;
+  document.getElementById('preview-banner').classList.add('show');
+
+  // Scroll up so the heatmap is visible
+  document.querySelector('.year-card').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function exitPreview() {
+  if (!previewActive || !previewBackup) return;
+
+  allEntries   = previewBackup.entries;
+  currentYear  = previewBackup.year;
+  selectedDate = previewBackup.selectedDate;
+  previewActive = false;
+
+  rebuildYearView();
+  updateYearNavButtons();
+  updateDateHeader(selectedDate);
+  loadDateIntoForm(selectedDate);
+
+  // Reset card styling
+  if (previewCard) {
+    previewCard.classList.remove('previewing');
+    previewCard.querySelector('.btn-preview').textContent = '↗ Preview';
+    previewCard = null;
+  }
+
+  previewBackup = null;
+
+  // Hide banner
+  document.getElementById('preview-banner').classList.remove('show');
 }
 
 document.addEventListener('DOMContentLoaded', init);

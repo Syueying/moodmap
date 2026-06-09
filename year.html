@@ -151,9 +151,21 @@
       </div>
 
     </div>
-  </div>
 
-  <!-- Custom date picker panel -->
+    <!-- ══════════════════════════════════
+         PERSONALITY PATTERNS GALLERY
+    ══════════════════════════════════ -->
+    <div class="profiles-card glass">
+      <div class="profiles-header">
+        <div class="profiles-title">Personality Patterns</div>
+        <div class="profiles-sub">2025 simulated data — click any card to preview in the heatmap above</div>
+      </div>
+      <div class="profiles-grid" id="profiles-grid"></div>
+    </div>
+
+  </div><!-- end .page -->
+
+  <!-- Custom date picker panel (fixed overlay) -->
   <div id="datepicker" style="display:none">
     <div class="dp-header">
       <button class="dp-nav" id="dp-prev">←</button>
@@ -167,6 +179,13 @@
     <div class="dp-footer">
       <button class="dp-today-btn" id="dp-today-btn">Today</button>
     </div>
+  </div>
+
+  <!-- Preview mode banner (fixed, shown when previewing a profile) -->
+  <div id="preview-banner">
+    <span class="banner-label">Previewing <strong id="preview-type"></strong></span>
+    <span class="banner-hint">— not saved to your data</span>
+    <button class="btn-exit-preview" id="btn-exit-preview">✕ Exit preview</button>
   </div>
 
   <div class="toast" id="toast"></div>
